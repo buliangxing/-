@@ -1,0 +1,37 @@
+2026-01-06 15:56:03,669 - __main__ - INFO - ✅ [get_real_time_market_spot] 实时数据获取成功（第1次尝试）
+2026-01-06 15:56:03,670 - __main__ - INFO - ✅ [get_real_time_market_summary] 实时数据获取成功（第1次尝试）
+2026-01-06 15:56:03,672 - __main__ - ERROR - ❌ [get_real_time_board_flow] 实时数据获取失败（第1次）：module 'akshare' has no attribute 'stock_board_flow_rank_em'
+2026-01-06 15:56:03,673 - __main__ - ERROR - ❌ [get_real_time_board_flow] 实时数据获取失败（第2次）：module 'akshare' has no attribute 'stock_board_flow_rank_em'
+2026-01-06 15:57:18,568 - __main__ - INFO - ✅ [get_real_time_market_spot] 实时数据获取成功（第1次尝试）
+2026-01-06 15:57:18,572 - __main__ - ERROR - ❌ 主程序异常：'板块'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\quant_strategy_app\stock_full.py", line 47, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\Desktop\quant_strategy_app\stock_full.py", line 150, in get_real_time_board_flow
+    df = ak.stock_board_flow_rank_em()
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'akshare' has no attribute 'stock_board_flow_rank_em'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\quant_strategy_app\stock_full.py", line 475, in main
+    board_flow_df = get_real_time_board_flow()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\Desktop\quant_strategy_app\stock_full.py", line 64, in wrapper
+    return get_board_flow_fallback()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\Desktop\quant_strategy_app\stock_full.py", line 86, in get_board_flow_fallback
+    sector_flow = spot_df.groupby('板块')['成交额'].sum().sort_values(ascending=False).reset_index()
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\Desktop\quant_strategy_app\.venv\Lib\site-packages\pandas\core\frame.py", line 8869, in groupby
+    return DataFrameGroupBy(
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\Desktop\quant_strategy_app\.venv\Lib\site-packages\pandas\core\groupby\groupby.py", line 1278, in __init__
+    grouper, exclusions, obj = get_grouper(
+                               ^^^^^^^^^^^^
+  File "C:\Users\Administrator\Desktop\quant_strategy_app\.venv\Lib\site-packages\pandas\core\groupby\grouper.py", line 1009, in get_grouper
+    raise KeyError(gpr)
+KeyError: '板块'
+

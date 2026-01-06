@@ -1,0 +1,115 @@
+2026-01-06 15:02:41,734 - __main__ - WARNING - 获取市场情绪失败：module 'akshare' has no attribute 'stock_zh_a_market_summary_em'，使用备用数据
+2026-01-06 15:02:41,735 - __main__ - WARNING - 获取热点板块失败：module 'akshare' has no attribute 'stock_board_fund_flow_em'，使用备用数据
+2026-01-06 15:02:41,736 - __main__ - WARNING - [人工智能] 获取龙头股失败：stock_board_concept_cons_em() got an unexpected keyword argument 'concept_name'，使用备用数据
+2026-01-06 15:02:41,736 - __main__ - WARNING - [半导体] 获取龙头股失败：stock_board_concept_cons_em() got an unexpected keyword argument 'concept_name'，使用备用数据
+2026-01-06 15:02:41,737 - __main__ - WARNING - [光伏] 获取龙头股失败：stock_board_concept_cons_em() got an unexpected keyword argument 'concept_name'，使用备用数据
+2026-01-06 15:02:41,737 - __main__ - WARNING - [新能源汽车] 获取龙头股失败：stock_board_concept_cons_em() got an unexpected keyword argument 'concept_name'，使用备用数据
+2026-01-06 15:02:41,737 - __main__ - WARNING - [消费电子] 获取龙头股失败：stock_board_concept_cons_em() got an unexpected keyword argument 'concept_name'，使用备用数据
+2026-01-06 15:02:41,737 - __main__ - WARNING - [医药生物] 获取龙头股失败：stock_board_concept_cons_em() got an unexpected keyword argument 'concept_name'，使用备用数据
+2026-01-06 15:02:41,737 - __main__ - WARNING - [军工] 获取龙头股失败：stock_board_concept_cons_em() got an unexpected keyword argument 'concept_name'，使用备用数据
+2026-01-06 15:02:41,737 - __main__ - WARNING - [金融科技] 获取龙头股失败：stock_board_concept_cons_em() got an unexpected keyword argument 'concept_name'，使用备用数据
+2026-01-06 15:02:41,742 - __main__ - WARNING - [300274] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'stock_code'，使用备用数据
+2026-01-06 15:02:41,994 - __main__ - INFO - [300274] 完整数据获取成功 - 当前价:172.12
+2026-01-06 15:02:41,995 - __main__ - WARNING - [600276] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'stock_code'，使用备用数据
+2026-01-06 15:02:42,161 - __main__ - INFO - [600276] 完整数据获取成功 - 当前价:63.06
+2026-01-06 15:02:42,162 - __main__ - WARNING - [002371] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'stock_code'，使用备用数据
+2026-01-06 15:02:42,336 - __main__ - INFO - [002371] 完整数据获取成功 - 当前价:485.97
+2026-01-06 15:02:42,337 - __main__ - WARNING - [002594] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'stock_code'，使用备用数据
+2026-01-06 15:02:42,506 - __main__ - INFO - [002594] 完整数据获取成功 - 当前价:99.99
+2026-01-06 15:02:42,507 - __main__ - WARNING - [300661] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'stock_code'，使用备用数据
+2026-01-06 15:02:42,681 - __main__ - INFO - [300661] 完整数据获取成功 - 当前价:72.0
+2026-01-06 15:02:42,682 - __main__ - WARNING - [300750] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'stock_code'，使用备用数据
+2026-01-06 15:02:42,843 - __main__ - INFO - [300750] 完整数据获取成功 - 当前价:373.99
+2026-01-06 15:02:42,843 - __main__ - WARNING - [688041] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'stock_code'，使用备用数据
+2026-01-06 15:02:43,097 - __main__ - INFO - [688041] 完整数据获取成功 - 当前价:225.82
+2026-01-06 15:02:43,098 - __main__ - WARNING - [601318] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'stock_code'，使用备用数据
+2026-01-06 15:02:43,275 - __main__ - INFO - [601318] 完整数据获取成功 - 当前价:74.32
+2026-01-06 15:02:43,276 - __main__ - WARNING - [600196] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'stock_code'，使用备用数据
+2026-01-06 15:02:43,441 - __main__ - INFO - [600196] 完整数据获取成功 - 当前价:27.35
+2026-01-06 15:02:43,442 - __main__ - WARNING - [603986] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'stock_code'，使用备用数据
+2026-01-06 15:02:43,612 - __main__ - INFO - [603986] 完整数据获取成功 - 当前价:250.78
+2026-01-06 15:08:28,837 - __main__ - WARNING - 获取市场情绪失败：module 'akshare' has no attribute 'stock_zh_a_market_summary'，使用备用数据
+2026-01-06 15:08:28,838 - __main__ - WARNING - 获取热点板块失败：module 'akshare' has no attribute 'stock_board_fund_flow'，使用备用数据
+2026-01-06 15:08:28,839 - __main__ - WARNING - [人工智能] 获取龙头股失败：module 'akshare' has no attribute 'stock_board_concept_cons'，使用备用数据
+2026-01-06 15:08:28,839 - __main__ - WARNING - [半导体] 获取龙头股失败：module 'akshare' has no attribute 'stock_board_concept_cons'，使用备用数据
+2026-01-06 15:08:28,839 - __main__ - WARNING - [光伏] 获取龙头股失败：module 'akshare' has no attribute 'stock_board_concept_cons'，使用备用数据
+2026-01-06 15:08:28,839 - __main__ - WARNING - [新能源汽车] 获取龙头股失败：module 'akshare' has no attribute 'stock_board_concept_cons'，使用备用数据
+2026-01-06 15:08:28,840 - __main__ - WARNING - [消费电子] 获取龙头股失败：module 'akshare' has no attribute 'stock_board_concept_cons'，使用备用数据
+2026-01-06 15:08:28,840 - __main__ - WARNING - [医药生物] 获取龙头股失败：module 'akshare' has no attribute 'stock_board_concept_cons'，使用备用数据
+2026-01-06 15:08:28,840 - __main__ - WARNING - [军工] 获取龙头股失败：module 'akshare' has no attribute 'stock_board_concept_cons'，使用备用数据
+2026-01-06 15:08:28,840 - __main__ - WARNING - [金融科技] 获取龙头股失败：module 'akshare' has no attribute 'stock_board_concept_cons'，使用备用数据
+2026-01-06 15:08:28,844 - __main__ - WARNING - [600584] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用备用数据
+2026-01-06 15:08:29,099 - __main__ - INFO - [600584] 完整数据获取成功（实时数据）- 当前价:38.44
+2026-01-06 15:08:29,099 - __main__ - WARNING - [002371] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用备用数据
+2026-01-06 15:08:29,283 - __main__ - INFO - [002371] 完整数据获取成功（实时数据）- 当前价:485.97
+2026-01-06 15:08:29,284 - __main__ - WARNING - [601138] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用备用数据
+2026-01-06 15:08:29,504 - __main__ - INFO - [601138] 完整数据获取成功（实时数据）- 当前价:64.05
+2026-01-06 15:08:29,504 - __main__ - WARNING - [300476] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用备用数据
+2026-01-06 15:08:30,431 - __main__ - INFO - [300476] 完整数据获取成功（实时数据）- 当前价:314.66
+2026-01-06 15:08:30,432 - __main__ - WARNING - [002230] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用备用数据
+2026-01-06 15:08:31,256 - __main__ - INFO - [002230] 完整数据获取成功（实时数据）- 当前价:53.89
+2026-01-06 15:08:31,257 - __main__ - WARNING - [603986] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用备用数据
+2026-01-06 15:08:31,789 - __main__ - INFO - [603986] 完整数据获取成功（实时数据）- 当前价:250.78
+2026-01-06 15:08:31,790 - __main__ - WARNING - [601318] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用备用数据
+2026-01-06 15:08:32,033 - __main__ - INFO - [601318] 完整数据获取成功（实时数据）- 当前价:74.32
+2026-01-06 15:08:32,033 - __main__ - WARNING - [002475] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用备用数据
+2026-01-06 15:08:32,207 - __main__ - INFO - [002475] 完整数据获取成功（实时数据）- 当前价:59.22
+2026-01-06 15:08:32,208 - __main__ - WARNING - [300750] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用备用数据
+2026-01-06 15:08:32,434 - __main__ - INFO - [300750] 完整数据获取成功（实时数据）- 当前价:373.99
+2026-01-06 15:08:32,435 - __main__ - WARNING - [600036] 获取资金流失败：stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用备用数据
+2026-01-06 15:08:33,616 - __main__ - INFO - [600036] 完整数据获取成功（实时数据）- 当前价:42.73
+2026-01-06 15:11:52,260 - __main__ - INFO - [002230] 日线数据获取成功（实时）- 数据量:62条
+2026-01-06 15:11:52,363 - __main__ - INFO - [603986] 日线数据获取成功（实时）- 数据量:62条
+2026-01-06 15:11:52,469 - __main__ - INFO - [300750] 日线数据获取成功（实时）- 数据量:62条
+2026-01-06 15:11:52,576 - __main__ - INFO - [688041] 日线数据获取成功（实时）- 数据量:62条
+2026-01-06 15:11:52,685 - __main__ - INFO - [002475] 日线数据获取成功（实时）- 数据量:62条
+2026-01-06 15:11:52,791 - __main__ - INFO - [600276] 日线数据获取成功（实时）- 数据量:62条
+2026-01-06 15:11:52,893 - __main__ - INFO - [600893] 日线数据获取成功（实时）- 数据量:62条
+2026-01-06 15:11:53,002 - __main__ - INFO - [601318] 日线数据获取成功（实时）- 数据量:62条
+2026-01-06 15:11:53,111 - __main__ - INFO - [300274] 日线数据获取成功（实时）- 数据量:62条
+2026-01-06 15:11:53,214 - __main__ - INFO - [002594] 日线数据获取成功（实时）- 数据量:62条
+2026-01-06 15:11:53,216 - __main__ - INFO - 市场情绪计算成功（实时本地计算）- 上涨:7 总数量:10 赚钱效应:0.7
+2026-01-06 15:11:53,219 - __main__ - INFO - 热点板块计算成功（实时本地计算）- ['半导体', '金融科技', '人工智能', '军工', '医药生物', '光伏', '消费电子', '新能源汽车']
+2026-01-06 15:11:53,220 - __main__ - INFO - [未知] 资金流计算成功（实时本地计算）- -408.4万元
+2026-01-06 15:11:53,340 - __main__ - INFO - [未知] 资金流计算成功（实时本地计算）- 20764.67万元
+2026-01-06 15:11:53,444 - __main__ - INFO - [未知] 资金流计算成功（实时本地计算）- -8302.78万元
+2026-01-06 15:11:53,541 - __main__ - INFO - [未知] 资金流计算成功（实时本地计算）- 1786.19万元
+2026-01-06 15:11:53,641 - __main__ - INFO - [未知] 资金流计算成功（实时本地计算）- 484.55万元
+2026-01-06 15:11:53,742 - __main__ - INFO - [未知] 资金流计算成功（实时本地计算）- -418.39万元
+2026-01-06 15:11:53,839 - __main__ - INFO - [未知] 资金流计算成功（实时本地计算）- 1806.69万元
+2026-01-06 15:11:53,940 - __main__ - INFO - [未知] 资金流计算成功（实时本地计算）- 3561.52万元
+2026-01-06 15:11:54,082 - __main__ - INFO - [未知] 资金流计算成功（实时本地计算）- 105.68万元
+2026-01-06 15:11:54,181 - __main__ - INFO - [未知] 资金流计算成功（实时本地计算）- 2359.94万元
+2026-01-06 15:37:37,682 - __main__ - ERROR - ❌ [get_market_summary] 实时数据获取失败：module 'akshare' has no attribute 'stock_market_summary_zh_a'
+2026-01-06 15:37:37,684 - __main__ - ERROR - ❌ [get_hot_sectors] 实时数据获取失败：module 'akshare' has no attribute 'stock_board_fund_flow_ths'
+2026-01-06 15:37:37,689 - __main__ - ERROR - ❌ [get_sector_leaders] 实时数据获取失败：stock_board_industry_name_ths() got an unexpected keyword argument 'industry_name'
+2026-01-06 15:37:37,692 - __main__ - ERROR - ❌ [get_sector_leaders] 实时数据获取失败：stock_board_industry_name_ths() got an unexpected keyword argument 'industry_name'
+2026-01-06 15:37:37,694 - __main__ - ERROR - ❌ [get_sector_leaders] 实时数据获取失败：stock_board_industry_name_ths() got an unexpected keyword argument 'industry_name'
+2026-01-06 15:37:37,695 - __main__ - ERROR - ❌ [get_sector_leaders] 实时数据获取失败：stock_board_industry_name_ths() got an unexpected keyword argument 'industry_name'
+2026-01-06 15:37:37,886 - __main__ - INFO - ✅ [get_stock_daily] 实时数据获取成功
+2026-01-06 15:37:37,894 - __main__ - ERROR - ❌ [get_stock_fund_flow] 实时数据获取失败：module 'akshare' has no attribute 'stock_individual_fund_flow_ths'
+2026-01-06 15:37:38,046 - __main__ - INFO - ✅ [get_stock_daily] 实时数据获取成功
+2026-01-06 15:37:38,052 - __main__ - ERROR - ❌ [get_stock_fund_flow] 实时数据获取失败：module 'akshare' has no attribute 'stock_individual_fund_flow_ths'
+2026-01-06 15:37:38,209 - __main__ - INFO - ✅ [get_stock_daily] 实时数据获取成功
+2026-01-06 15:37:38,214 - __main__ - ERROR - ❌ [get_stock_fund_flow] 实时数据获取失败：module 'akshare' has no attribute 'stock_individual_fund_flow_ths'
+2026-01-06 15:37:38,368 - __main__ - INFO - ✅ [get_stock_daily] 实时数据获取成功
+2026-01-06 15:37:38,375 - __main__ - ERROR - ❌ [get_stock_fund_flow] 实时数据获取失败：module 'akshare' has no attribute 'stock_individual_fund_flow_ths'
+2026-01-06 15:37:38,530 - __main__ - INFO - ✅ [get_stock_daily] 实时数据获取成功
+2026-01-06 15:37:38,535 - __main__ - ERROR - ❌ [get_stock_fund_flow] 实时数据获取失败：module 'akshare' has no attribute 'stock_individual_fund_flow_ths'
+2026-01-06 15:37:38,686 - __main__ - INFO - ✅ [get_stock_daily] 实时数据获取成功
+2026-01-06 15:37:38,693 - __main__ - ERROR - ❌ [get_stock_fund_flow] 实时数据获取失败：module 'akshare' has no attribute 'stock_individual_fund_flow_ths'
+2026-01-06 15:37:38,850 - __main__ - INFO - ✅ [get_stock_daily] 实时数据获取成功
+2026-01-06 15:37:38,857 - __main__ - ERROR - ❌ [get_stock_fund_flow] 实时数据获取失败：module 'akshare' has no attribute 'stock_individual_fund_flow_ths'
+2026-01-06 15:37:39,061 - __main__ - INFO - ✅ [get_stock_daily] 实时数据获取成功
+2026-01-06 15:37:39,067 - __main__ - ERROR - ❌ [get_stock_fund_flow] 实时数据获取失败：module 'akshare' has no attribute 'stock_individual_fund_flow_ths'
+2026-01-06 15:37:39,224 - __main__ - INFO - ✅ [get_stock_daily] 实时数据获取成功
+2026-01-06 15:37:39,229 - __main__ - ERROR - ❌ [get_stock_fund_flow] 实时数据获取失败：module 'akshare' has no attribute 'stock_individual_fund_flow_ths'
+2026-01-06 15:37:39,388 - __main__ - INFO - ✅ [get_stock_daily] 实时数据获取成功
+2026-01-06 15:37:39,396 - __main__ - ERROR - ❌ [get_stock_fund_flow] 实时数据获取失败：module 'akshare' has no attribute 'stock_individual_fund_flow_ths'
+2026-01-06 15:37:39,453 - __main__ - ERROR - ❌ 主程序异常：'涨跌幅'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\quant_strategy_app\stock_full.py", line 492, in main
+    st.write(f"- 涨跌幅：{res['涨跌幅']} %")
+                          ~~~^^^^^^^^^^
+KeyError: '涨跌幅'
+
